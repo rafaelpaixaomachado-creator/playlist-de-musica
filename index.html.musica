@@ -23,7 +23,7 @@
       padding: 2rem 1rem;
     }
 
-    /* card principal */
+    /* card principal - centralizado */
     .music-app {
       max-width: 880px;
       width: 100%;
